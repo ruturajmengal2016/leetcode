@@ -20,4 +20,4 @@ function valid(str) {
   return array.length ? false : true; // return true if array length is 0
 }
 
-console.log(valid("{}[}"));
+console.log(valid("{}"));
