@@ -24,3 +24,6 @@ function Int(str) {
   }
   return result;
 }
+
+
+console.log(Int("IV"))
